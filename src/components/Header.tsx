@@ -44,9 +44,7 @@ const Header = () => {
             className="flex items-center space-x-2 group"
             onClick={() => window.scrollTo(0, 0)}
           >
-            <div className="p-2 rounded-lg bg-gradient-to-br from-purple-600 to-blue-600 group-hover:rotate-12 transition-transform">
-             <img src="favicon.svg" alt='logo.svg' />
-            </div>
+          
             <span className="text-xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
               Musify
             </span>
