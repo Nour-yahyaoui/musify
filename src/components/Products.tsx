@@ -38,15 +38,15 @@ const musicGenres = [
   },
   {
     id: 1,
-    name: 'Pop',
-    description: 'Catchy melodies and mainstream appeal',
+    name: 'phonk',
+    description: 'very popular song type!',
     image: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80',
     songs: [
-      { id: 101, title: 'Blinding Lights', artist: 'The Weeknd', duration: '3:20', plays: '2.5B' },
-      { id: 102, title: 'Levitating', artist: 'Dua Lipa', duration: '3:23', plays: '1.8B' },
-      { id: 103, title: 'Stay', artist: 'The Kid LAROI, Justin Bieber', duration: '2:21', plays: '2.1B' },
-      { id: 104, title: 'Watermelon Sugar', artist: 'Harry Styles', duration: '2:54', plays: '1.7B' },
-      { id: 105, title: 'Don\'t Start Now', artist: 'Dua Lipa', duration: '3:03', plays: '1.9B' }
+      { id: 101, title: 'ectremece Terra', artist: 'TRASHXRL', duration: '3:20', plays: '2.5B' },
+      { id: 102, title: 'ultra vuk', artist: 'TRASHXRL', duration: '3:23', plays: '1.8B' },
+      { id: 103, title: 'EI DO SENSACIO', artist: 'princce', duration: '2:21', plays: '2.1B' },
+      { id: 104, title: 'Ender pearl funk', artist: 'Sayfalse, ...', duration: '2:54', plays: '1.7B' },
+      { id: 105, title: 'mata rato do casarao 1.0', artist: 'd.silvester', duration: '3:03', plays: '1.9B' }
     ]
   },
   {
@@ -113,7 +113,20 @@ const musicGenres = [
       { id: 604, title: 'Autumn Leaves', artist: 'Cannonball Adderley', duration: '10:57', plays: '180M' },
       { id: 605, title: 'All Blues', artist: 'Miles Davis', duration: '11:33', plays: '220M' }
     ]
-  }
+  },
+  {
+    id: 7,
+    name: 'Pop',
+    description: 'Catchy melodies and mainstream appeal',
+    image: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80',
+    songs: [
+      { id: 701, title: 'Blinding Lights', artist: 'The Weeknd', duration: '3:20', plays: '2.5B' },
+      { id: 702, title: 'Levitating', artist: 'Dua Lipa', duration: '3:23', plays: '1.8B' },
+      { id: 703, title: 'Stay', artist: 'The Kid LAROI, Justin Bieber', duration: '2:21', plays: '2.1B' },
+      { id: 704, title: 'Watermelon Sugar', artist: 'Harry Styles', duration: '2:54', plays: '1.7B' },
+      { id: 705, title: 'Don\'t Start Now', artist: 'Dua Lipa', duration: '3:03', plays: '1.9B' }
+    ]
+  },
 ];
 
 
