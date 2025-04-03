@@ -29,20 +29,21 @@ Navigate to the project directory:
 ```
 ```bash
 cd musify
-Install dependencies:
 ```
+Install dependencies:
+
 ```bash
 npm install
-Start the development server:
 ```
+Start the development server:
 ```bash
 npm run dev
-Open your browser and visit:
 ```
+Open your browser and visit:
+
 ```bash
 http://localhost:5173
 ```
-
 🎨 Project Structure
 
 ```bash
