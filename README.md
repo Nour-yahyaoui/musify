@@ -26,21 +26,21 @@
 ```bash
 git clone https://github.com/nour-yahyaoui/musify.git
 ```
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd musify
 ```
-Install dependencies:
+3. Install dependencies:
 
 ```bash
 npm install
 ```
-Start the development server:
+4. Start the development server:
 ```bash
 npm run dev
 ```
-Open your browser and visit:
+5. Open your browser and visit:
 
 ```bash
 http://localhost:5173
