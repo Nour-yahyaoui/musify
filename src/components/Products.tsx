@@ -9,6 +9,11 @@ const musicGenres = [
     description: 'all of the avaible songs from all genres',
     image: 'https://cdn.pixabay.com/photo/2018/03/26/14/18/man-3262834_640.png',
     songs: [
+      { id: 01, title: 'ectremece Terra', artist: 'TRASHXRL', duration: '3:20', plays: '2.5B' },
+      { id: 02, title: 'ultra vuk', artist: 'TRASHXRL', duration: '3:23', plays: '1.8B' },
+      { id: 03, title: 'EI DO SENSACIO', artist: 'princce', duration: '2:21', plays: '2.1B' },
+      { id: 04, title: 'Ender pearl funk', artist: 'Sayfalse, ...', duration: '2:54', plays: '1.7B' },
+      { id: 05, title: 'mata rato do casarao 1.0', artist: 'd.silvester', duration: '3:03', plays: '1.9B' },
       { id: 101, title: 'Blinding Lights', artist: 'The Weeknd', duration: '3:20', plays: '2.5B' },
       { id: 102, title: 'Levitating', artist: 'Dua Lipa', duration: '3:23', plays: '1.8B' },
       { id: 103, title: 'Stay', artist: 'The Kid LAROI, Justin Bieber', duration: '2:21', plays: '2.1B' },
